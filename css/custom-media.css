@@ -1,0 +1,85 @@
+@media screen and (max-width: 500px) {
+	#header-content .top-header p {
+font-size: 8px;
+padding-top: 2px;
+}
+#header-content .top-header .address i,#header .top-header .phone i {
+font-size: 10px;
+padding: 3px 5px;
+}
+#header-content .top-header .social_icon i {
+	color: #787878;
+	font-size: 10px;
+}
+}
+
+/*@media screen and (max-width: 1199px)and (min-width: 768px){
+	
+		#header-content .navbar-brand img {
+		margin-right: 50px;
+			}
+}
+
+	
+}*/
+
+@media screen and (max-width: 767px){
+	#header-content .header-menu .main-menu  {
+		float: none;
+		text-align: center;
+	}
+	#header-content {
+    position: fixed;
+    z-index: 9999;
+     width: 80%; 
+}
+.about-img img {
+	margin:0 auto;
+}
+
+
+}
+
+@media screen and (max-width: 374px){
+	.navbar-brand img {
+		margin-top: -64px;
+	}
+}
+/*
+@media screen and (max-width: 800px){
+	#slider .slider-text  h3 {
+	font-size: 14px;
+	padding: -10px;
+}
+
+#slider .slider-text  h2 {
+	font-size: 17px;
+	font-weight: 600;
+}
+
+#slider .slider-text  p{
+	font-size: 14px;
+	padding-bottom:20px;
+	font-weight: 400; 
+}
+#slider .slider-text  a.read-btn{
+	background-color: #43a906;
+	color: #fff;
+	padding:10px;
+	border-radius: 4px;
+	font-size: 12px;
+}
+}
+@media screen and (max-width: 800px){
+	#purches {
+		padding-bottom: 40px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.event_img img{
+		margin-bottom: 30px;
+	}
+}
+
+*/
